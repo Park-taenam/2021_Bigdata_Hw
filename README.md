@@ -1,7 +1,7 @@
 # 2021-2 빅데이터 자료구조 웹스크래핑 과제
 
 ## 주제
-* Musinsa-아우터부분 랭킹에서 다른 변수들과 가격이 어떤 관계가 있을까?
+**Musinsa-아우터부분 랭킹에서 다른 변수들과 가격이 어떤 관계가 있을까?**
 
 ## 방법
 * [무신사 페이지](https://search.musinsa.com/ranking/best?&mainCategory=002&page=1) - 랭킹 - 아우터부분
